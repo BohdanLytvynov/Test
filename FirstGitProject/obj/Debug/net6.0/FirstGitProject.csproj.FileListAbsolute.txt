@@ -1,0 +1,15 @@
+D:\C# Projects\FirstGitProject\FirstGitProject\bin\Debug\net6.0\FirstGitProject.exe
+D:\C# Projects\FirstGitProject\FirstGitProject\bin\Debug\net6.0\FirstGitProject.deps.json
+D:\C# Projects\FirstGitProject\FirstGitProject\bin\Debug\net6.0\FirstGitProject.runtimeconfig.json
+D:\C# Projects\FirstGitProject\FirstGitProject\bin\Debug\net6.0\FirstGitProject.dll
+D:\C# Projects\FirstGitProject\FirstGitProject\bin\Debug\net6.0\FirstGitProject.pdb
+D:\C# Projects\FirstGitProject\FirstGitProject\obj\Debug\net6.0\FirstGitProject.csproj.AssemblyReference.cache
+D:\C# Projects\FirstGitProject\FirstGitProject\obj\Debug\net6.0\FirstGitProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\FirstGitProject\FirstGitProject\obj\Debug\net6.0\FirstGitProject.AssemblyInfoInputs.cache
+D:\C# Projects\FirstGitProject\FirstGitProject\obj\Debug\net6.0\FirstGitProject.AssemblyInfo.cs
+D:\C# Projects\FirstGitProject\FirstGitProject\obj\Debug\net6.0\FirstGitProject.csproj.CoreCompileInputs.cache
+D:\C# Projects\FirstGitProject\FirstGitProject\obj\Debug\net6.0\FirstGitProject.dll
+D:\C# Projects\FirstGitProject\FirstGitProject\obj\Debug\net6.0\refint\FirstGitProject.dll
+D:\C# Projects\FirstGitProject\FirstGitProject\obj\Debug\net6.0\FirstGitProject.pdb
+D:\C# Projects\FirstGitProject\FirstGitProject\obj\Debug\net6.0\FirstGitProject.genruntimeconfig.cache
+D:\C# Projects\FirstGitProject\FirstGitProject\obj\Debug\net6.0\ref\FirstGitProject.dll

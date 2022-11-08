@@ -24,3 +24,9 @@ for (int i = 0; i < array.Length; i++)
 
 //New Work
 
+for (int i = 0; i < 10; i++)
+{
+    Console.WriteLine("New work was done!!");
+}
+
+

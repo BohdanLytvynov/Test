@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FirstGitProject
 {
-    internal class NewClass
+    public class NewClass
     {
     }
 }
